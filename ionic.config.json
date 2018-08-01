@@ -1,0 +1,8 @@
+{
+  "name": "miIonicRuedalApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "a7864d02"
+}
